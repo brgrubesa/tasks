@@ -20,16 +20,9 @@ This project displays a polygon on a map using OpenLayers library.
      python -m http.server
      ```
 
-   - Using Node.js's `http-server`:
-
-     ```bash
-     npm install -g http-server
-     http-server
-     ```
-
 3. **Access the Page**:
 
-   Once the server is running, open a web browser and navigate to `http://localhost:<port>/index.html`, where `<port>` is the port number specified by the web server.
+   Once the server is running, open a web browser and navigate to `http://localhost:<port>`, where `<port>` is the port number specified by the web server.
 
 ## File Structure
 
